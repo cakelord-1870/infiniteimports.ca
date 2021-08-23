@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://infiniteimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://infiniteimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://infiniteimports.ca/collections/recliner-collection.atom"/>
+  <title>Infiniteimports</title>
+  <updated>2021-03-31T12:28:56-04:00</updated>
+  <author>
+    <name>Infiniteimports</name>
+  </author>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550598615123</id>
+    <published>2021-03-31T12:28:56-04:00</published>
+    <updated>2021-03-31T12:28:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/8063-led-power-sectional"/>
+    <title>8063 LED Power Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_353a478b-184d-4aec-9119-05d3fda67fd1.jpg?v=1617208344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sharing this luxurious power motion sectional with your friends, family and guests.<br>Wrapped with smooth chocolate leather-aire and framed with hard wood, quality<br>and durability are guaranteed for your enjoyment. USB Ports are provided on both ends,<br>along with four light up cup holders and 2 storage consoles making it come in handy<br>for you to charge any electronics, keep a drink and stow away your remote controls.</p>
+<p><strong>8063PWRSEC Power Sectional</strong></p>
+<p><strong>• Power Reclining Chairs<br>• USB Ports Built In To Charge Your Devices<br>• Four Cup Holders + 2 Storage Consoles</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550598615123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550613033043</id>
+    <published>2021-03-31T12:18:30-04:00</published>
+    <updated>2021-03-31T12:18:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/057-brown-collection-recliner-set"/>
+    <title>057 Brown Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_9d14a04c-8da1-439b-b181-13a6e7e73aad.jpg?v=1617207299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            359.00 - 1699.00
+            <a href="https://infiniteimports.ca/products/057-brown-collection-recliner-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gather the family and cozy up together for movie night on the 057 sofa series. Featuring a stacked pillow-back design, padded armrests, unique double-padded luxurious seating and comfort. Equipped with 5 recliners (Loveseat 2 recliners, Sofa 2 recliners and drink tray, Chair recliner), features such as the drop down drink holding tray help you relax, the mechanisms make it even easier to put your feet up and unwind. The chic and ever-lasting upholstery is just right for nearly any style of decor. </p>
+<p><strong>057BRN-1    Chair         36”W 36”D 36”H</strong><br><strong>057BRN-2    Loveseat   59”W 36”D 36”H</strong><br><strong>057BRN-3    Sofa          79”W 36”D 36”H</strong></p>
+<ul>
+<li><strong>Five Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa Drop Tray</strong></li>
+<li><strong>Pull Tab Recliner Mechanism</strong></li>
+<li><strong>Full Extension Recliner</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550613033043</id>
+      <title>All 3 Pcs</title>
+      <s:price currency="CAD">1699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550613033043</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550613033043</id>
+      <title>Loveseat</title>
+      <s:price currency="CAD">594.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550613033043</id>
+      <title>Chair</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550609264723</id>
+    <published>2021-03-31T12:05:06-04:00</published>
+    <updated>2021-03-31T12:05:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/8005-grey-collection-recliner-set"/>
+    <title>8005 Grey Collection Recliner Set - Waterproof</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_7baf125e-39cb-41db-a544-c3fbd6ba2612.jpg?v=1617206553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            359.99 - 1699.99
+            <a href="https://infiniteimports.ca/products/8005-grey-collection-recliner-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comfort is the name of the game in the 8005 Collection. Grey fabric in several configurations – traditional sofa, love seat and chair, and sectional – for versatile placement in your living room maximum relaxation potential in your downtime. Manually engaged motion mechanisms allow for quick transition from seated to prone with the<br data-mce-fragment="1">quick pull of a tab. Each piece in the collection has an individual function allowing for convenience and comfort.</p>
+<p><strong>8005GRY-1 Chair        36”W 36”D 38”H</strong><br><strong>8005GRY-2 Loveseat  57”W 36”D 38”H</strong><br><strong>8005GRY-3 Sofa          79”W 36”D 38”H</strong></p>
+<ul>
+<li><strong>Five Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa</strong></li>
+<li><strong>Waterproof Thick Durable Fabric</strong></li>
+<li><strong>Rocker &amp; Recliner Chair</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550609264723</id>
+      <title>All 3 Pcs Set</title>
+      <s:price currency="CAD">1699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550609264723</id>
+      <title>Sofa Only</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550609264723</id>
+      <title>Love Seat Only</title>
+      <s:price currency="CAD">594.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550609264723</id>
+      <title>Chair Recliner</title>
+      <s:price currency="CAD">359.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550607102035</id>
+    <published>2021-03-31T11:53:49-04:00</published>
+    <updated>2021-03-31T11:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/2126-fabric-recliner-collection"/>
+    <title>2126 Fabric Recliner Collection</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_d32a3aa1-bfb8-4224-b4c2-71ba286beeff.jpg?v=1617206016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            359.99 - 1699.99
+            <a href="https://infiniteimports.ca/products/2126-fabric-recliner-collection">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plush seating creates the perfect platform for comfort in this collection. Featuring manual motion mechanisms which engage with the pull of a side tab easily move you from seated to reclined. Each piece in this collection has an individual function allowing for convenience and comfort.</p>
+<p><strong>2126GRY-1     Chair          38"W 36"0 40"H</strong><br><strong>2126GRY-2     Loveseat    62"W 36"0 40"H</strong><br><strong>2126GRY-3     Sofa           82"W 36"0 40"H</strong><br><br></p>
+<ul>
+<li><strong>Easy Pull Tab Recliner</strong></li>
+<li><strong>Rocker Recliner Chair</strong></li>
+<li><strong>Drop Down Tray With Two Cup Holders</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550607102035</id>
+      <title>All 3 Pcs</title>
+      <s:price currency="CAD">1699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550607102035</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550607102035</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">594.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550607102035</id>
+      <title>Chair</title>
+      <s:price currency="CAD">359.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550597926995</id>
+    <published>2021-03-31T11:07:17-04:00</published>
+    <updated>2021-03-31T11:07:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/harper-brown-recliner-sectional-with-led-usb-storage"/>
+    <title>Harper Brown Recliner Sectional With LED + USB + STORAGE</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_668cb44c-85b1-4ff3-92ea-703160f42997.jpg?v=1617203230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You and yours will love getting together for movie night when you enjoy the ultra-modern amenities and classic comfort of this contemporary reclining L-shaped sectional for the den or living room. Upholstered in sumptuous breathable leatherette, this sectional comes with two storage consoles with two sets of cupholders and built-in LED lighting underneath with a simple press of a button, while the contoured padding of the arms and backs makes this family gathering place as comfortable as it is elegant.</p>
+<p><strong>HARPER-BRN Sectional</strong></p>
+<p><strong>• Power touch button recliner controls<br>• USB Outlets<br>• 2 Storage Consoles + 4 Steel Cup Holders<br>• Cross stitch detailing</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550597926995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550597009491</id>
+    <published>2021-03-31T11:05:07-04:00</published>
+    <updated>2021-03-31T11:05:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/harper-black-recliner-sectional-with-led-usb-storage"/>
+    <title>Harper Black Recliner Sectional With LED + USB + STORAGE</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/4_3a39276e-7d93-4081-b5b3-36f107db1c18.jpg?v=1617202987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You and yours will love getting together for movie night when you enjoy the ultra-modern amenities and classic comfort of this contemporary reclining L-shaped sectional for the den or living room. Upholstered in sumptuous breathable leatherette, this sectional comes with two storage consoles with two sets of cupholders and built-in LED lighting underneath with a simple press of a button, while the contoured padding of the arms and backs makes this family gathering place as comfortable as it is elegant.</p>
+<p><strong>HARPER-BLK Sectional</strong></p>
+<p><strong>• Power touch button recliner controls<br>• USB Outlets<br>• 2 Storage Consoles + 4 Steel Cup Holders<br>• Cross stitch detailing</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550597009491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6544826171475</id>
+    <published>2021-03-16T12:51:04-04:00</published>
+    <updated>2021-03-16T12:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/1111-sectional-recliner"/>
+    <title>1111 Sectional Recliner</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/IMG-20210316-WA0004.jpg?v=1615913470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1111 sectional comes with recliner, drop down tray with cup holders, pocket pouch, drawer under the seat and built-in storage ottoman leather gel. </p>
+<p> </p>
+<p>110 x 82</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6544826171475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4727407804499</id>
+    <published>2020-12-26T15:04:14-05:00</published>
+    <updated>2020-12-26T15:04:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/sdm-recliner-set"/>
+    <title>SDM Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_1f40d980-0523-4ebb-b67d-f962786e1622.jpg?v=1617204114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            272.79 - 1299.00
+            <a href="https://infiniteimports.ca/products/sdm-recliner-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the SDM series, featuring drop down tray in the sofa with cupholders, love seat with storage console + two cupholders. The single chair is a rocker and recliner. Go from seated to reclined with a simple pull tab mechanism. Wrapped in a thick, durable and cozy fabric with very comfortable seating. This set has been created with ultimate relaxation in mind.</p>
+<p><strong>SDM-1    Chair        41”W 36”D 38”H</strong><br><strong>SDM-2    Loveseat  76”W 36”D 38”H</strong><br><strong>SDM-3    Sofa         86”W 36”D 38”H</strong></p>
+<ul>
+<li><strong>Five Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa</strong></li>
+<li><strong>2 Cup Holders In Loveseat</strong></li>
+<li><strong>Rocker and recliner chair</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727407804499</id>
+      <title>3 Pieces Recliner Set</title>
+      <s:price currency="CAD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727407804499</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">571.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727407804499</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">454.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727407804499</id>
+      <title>Chair Rocker/Recliner</title>
+      <s:price currency="CAD">272.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4727406231635</id>
+    <published>2020-12-26T14:54:15-05:00</published>
+    <updated>2020-12-26T14:54:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/057-black-sofa-set"/>
+    <title>057 Black Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/057set.jpg?v=1609012725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            359.00 - 1699.00
+            <a href="https://infiniteimports.ca/products/057-black-sofa-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gather the family and cozy up together for movie night on the 057 sofa series. Featuring a stacked pillow-back design, padded armrests, unique double-padded luxurious seating and comfort. Equipped with 5 recliners (Loveseat 2 recliners, Sofa 2 recliners and drink tray, Chair recliner), features such as the drop down drink holding tray help you relax, the mechanisms make it even easier to put your feet up and unwind. The chic and ever-lasting upholstery is just right for nearly any style of decor. </p>
+<p><strong>057BLACK-1    Chair         36”W 36”D 36”H</strong><br><strong>057BLACK-2    Loveseat   59”W 36”D 36”H</strong><br><strong>057BLACK-3    Sofa          79”W 36”D 36”H</strong></p>
+<ul>
+<li><strong>Five Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa Drop Tray</strong></li>
+<li><strong>Pull Tab Recliner Mechanism</strong></li>
+<li><strong>Full Extension Recliner</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727406231635</id>
+      <title>All 3 Pcs</title>
+      <s:price currency="CAD">1699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727406231635</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727406231635</id>
+      <title>Loveseat</title>
+      <s:price currency="CAD">594.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727406231635</id>
+      <title>Chair</title>
+      <s:price currency="CAD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4727394566227</id>
+    <published>2020-12-26T12:58:39-05:00</published>
+    <updated>2020-12-26T12:58:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bellagio-3-pieces-power-recliner-set-with-console"/>
+    <title>Bellagio Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Bellagio70300_1296x_d5f94147-8fa5-4086-bce3-9c7cfffe643c.jpg?v=1609006512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            524.79 - 2499.99
+            <a href="https://infiniteimports.ca/products/bellagio-3-pieces-power-recliner-set-with-console">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the Bellagio Series. Featuring 5 power recliner seats with added USB charging ports, stainless steel cup holders in the sofa and loveseat, drop drown tray in the sofa,<br>storage console in the loveseat. Wrapped in a thick, durable and cozy material with very<br>comfortable seating. This set has been created with ultimate relaxation in mind.</p>
+<p><strong>BLG-1 Chair 38”W 36”D 40”H</strong><br><strong>BLG-2 Loveseat 75”W 36”D 40”H</strong><br><strong>BLG-3 Sofa 84”W 36”D 40”H</strong></p>
+<ul>
+<li><strong>Power Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa + Tray</strong></li>
+<li><strong>2 Cup Holders In Loveseat + Storage Console</strong></li>
+<li><strong>USB Ports</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Recliners</s:tag>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727394566227</id>
+      <title>3 Pieces Recliner Set</title>
+      <s:price currency="CAD">2499.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727394566227</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">1099.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727394566227</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">874.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4727394566227</id>
+      <title>Chair Rocker/Recliner</title>
+      <s:price currency="CAD">524.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4701789454419</id>
+    <published>2020-10-19T16:59:19-04:00</published>
+    <updated>2020-10-19T16:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/8015-brown-contrast-stitch-3-pieces-recliner-set"/>
+    <title>8015 Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_01fa2631-ee6d-47dd-bccf-e44e7fc172f8.jpg?v=1617206291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            389.99 - 1899.99
+            <a href="https://infiniteimports.ca/products/8015-brown-contrast-stitch-3-pieces-recliner-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 8015 Collection's transitional styling will serve as a functional and comfortable seating group for your living room. The available sofa, love seat and chair, feature manual reclining mechanisms. The 8015 Collection is offered in chocolate brown, allowing for maximum versatility of placement within your living room's decorative environment.</p>
+<p><strong>8015-1 Chair          36"W 36"0 38"H</strong><br><strong>8015-2 Loveseat    56"W 36"0 38"H</strong><br><strong>8015-3 Sofa           76"W 36"0 38"H</strong><br></p>
+<ul>
+<li><strong> Pull Tab Recliner</strong></li>
+<li><strong>Rocker Reclining Chair</strong></li>
+<li><strong>Drop Down Tray In Sofa</strong></li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701789454419</id>
+      <title>All 3 Pcs</title>
+      <s:price currency="CAD">1899.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701789454419</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701789454419</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701789454419</id>
+      <title>Chair</title>
+      <s:price currency="CAD">389.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4701777887315</id>
+    <published>2020-10-19T16:10:06-04:00</published>
+    <updated>2020-10-19T16:10:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/arizona-3-pieces-power-recliner-set-with-console"/>
+    <title>Arizona Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/studioarizona2.jpg?v=1607725869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            524.79 - 2499.00
+            <a href="https://infiniteimports.ca/products/arizona-3-pieces-power-recliner-set-with-console">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the Arizona series, featuring drop down tray in the sofa with cupholders, love seat with storage console + two cupholders &amp; USB ports on each piece. Go from seated to reclined with a simple push of a button. Wrapped in a thick, durable and cozy fabric with very comfortable seating. This set has been created with ultimate relaxation in mind.</p>
+<p><strong>ARIZONA-1     Chair         39”W 36”D 40”H</strong><br><strong>ARIZONA-2     Loveseat   75”W 36”D 40”H</strong><br><strong>ARIZONA-3     Sofa          84”W 36”D 40”H</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701777887315</id>
+      <title>Sofa Loveseat &amp; Chair All 3 Pcs</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701777887315</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">1099.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701777887315</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">874.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701777887315</id>
+      <title>Chair Rocker/Recliner</title>
+      <s:price currency="CAD">524.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4701771595859</id>
+    <published>2020-10-19T15:55:22-04:00</published>
+    <updated>2020-10-19T15:55:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/sdm-3-pieces-recliner-set-with-console"/>
+    <title>SDM Power Recliner Collection</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_4eb1f0be-f87a-412c-88d6-426948411a55.jpg?v=1617203814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            545.00 - 2499.00
+            <a href="https://infiniteimports.ca/products/sdm-3-pieces-recliner-set-with-console">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the SDM power series, featuring drop down tray in the sofa with cupholders, love seat with storage console + two cupholders. All pieces feature a nail head trim. Each piece has a power recliner switch highlighted by a blue led back light and USB Port. Go from seated to reclined with a simple touch of a button.</p>
+<p><strong>SDMPWR-1   Chair         41”W 36”D 38”H</strong><br><strong>SDMPWR-2   Loveseat   76”W 36”D 38”H</strong><br><strong>SDMPWR-3   Sofa          86”W 36”D 38”H</strong></p>
+<ul>
+<li><strong>Five Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa</strong></li>
+<li><strong>2 Cup Holders In Loveseat</strong></li>
+<li><strong>5 USB Ports</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701771595859</id>
+      <title>SDM, 3 Pieces Recliner Set</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701771595859</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701771595859</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">874.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701771595859</id>
+      <title>Chair Rocker/Recliner</title>
+      <s:price currency="CAD">545.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4701767762003</id>
+    <published>2020-10-19T15:48:55-04:00</published>
+    <updated>2020-10-19T15:48:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/2126-3-pieces-recliner-set"/>
+    <title>2126 Recliner Collection</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_f443b898-1212-41c2-892b-d4190d9cdb05.jpg?v=1617204903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            251.79 - 1199.00
+            <a href="https://infiniteimports.ca/products/2126-3-pieces-recliner-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plush seating creates the perfect platform for comfort in this collection. Featuring manual motion mechanisms which engage with the pull of a side tab easily move you from seated to reclined. Each piece in this collection has an individual function allowing for convenience and comfort.</p>
+<p><strong>2126BRN-1     Chair          38"W 36"0 40"H</strong><br><strong>2126BRN-2     Loveseat    62"W 36"0 40"H</strong><br><strong>2126BRN-3     Sofa           82"W 36"0 40"H</strong><br><br></p>
+<ul>
+<li><strong>Easy Pull Tab Recliner</strong></li>
+<li><strong>Rocker Recliner Chair</strong></li>
+<li><strong>Drop Down Tray With Two Cup Holders</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701767762003</id>
+      <title>All 3 Pcs</title>
+      <s:price currency="CAD">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701767762003</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">527.56</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701767762003</id>
+      <title>Love Seat</title>
+      <s:price currency="CAD">419.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701767762003</id>
+      <title>Chair</title>
+      <s:price currency="CAD">251.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4701763633235</id>
+    <published>2020-10-19T15:45:07-04:00</published>
+    <updated>2020-10-19T15:45:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/057-water-proof-fabric-brown-set"/>
+    <title>8005 Brown Collection Recliner Set - Waterproof</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/8005_2.jpg?v=1619039169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            359.99 - 1699.99
+            <a href="https://infiniteimports.ca/products/057-water-proof-fabric-brown-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comfort is the name of the game in the 8005 Collection. Brown fabric in several configurations – traditional sofa, love seat and chair, and sectional – for versatile placement in your living room maximum relaxation potential in your downtime. Manually engaged motion mechanisms allow for quick transition from seated to prone with the<br data-mce-fragment="1">quick pull of a tab. Each piece in the collection has an individual function allowing for convenience and comfort.</p>
+<p><strong>8005BRN-1 Chair 36”W 36”D 38”H</strong><br><strong>8005BRN-2 Loveseat 57”W 36”D 38”H</strong><br><strong>8005BRN-3 Sofa 79”W 36”D 38”H</strong></p>
+<ul>
+<li><strong>Five Recliners</strong></li>
+<li><strong>2 Cup Holders In Sofa</strong></li>
+<li><strong>Waterproof Thick Durable Fabric</strong></li>
+<li><strong>Rocker &amp; Recliner Chair</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701763633235</id>
+      <title>All 3 Pcs Set</title>
+      <s:price currency="CAD">1699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701763633235</id>
+      <title>Sofa Only</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701763633235</id>
+      <title>Love Seat Only</title>
+      <s:price currency="CAD">594.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4701763633235</id>
+      <title>Chair Recliner</title>
+      <s:price currency="CAD">359.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2149271109705</id>
+    <published>2020-09-25T17:50:43-04:00</published>
+    <updated>2020-09-25T17:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/1808-grey-fabric-3-pieces-recliner-set"/>
+    <title>1808 Collection Recliner Set</title>
+    <s:type>3 Piece Recliner set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Screenshot-20190403-182330-Chrome.jpg?v=1617207588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>3 Piece Recliner set<br>
+        <strong>Price: </strong>
+            314.99 - 1499.00
+            <a href="https://infiniteimports.ca/products/1808-grey-fabric-3-pieces-recliner-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ultimate comfort is one step closer with the addition of this collection. Styled in the modern contemporary aesthetic and offered in a neutral grey. Manual pull mechanism takes you from upright to reclined positions with ease. Perfect for watching TV, sleeping, reading or relaxing, easy to operate, very quiet and smooth, gives you a cozy feeling when you sit on it extending footrest and reclining features bring you an ultimately comfortable experience.</p>
+<p><strong>1808GRY-1 Chair         29"L 37"W 38"H</strong><br><strong>1808GRY-2 Loveseat   50"L 37"W 38"H</strong><br><strong>1808GRY-3 Sofa          70"L 37"W 38"H</strong><br></p>
+<ul>
+<li><strong>Grey 100% Polyester</strong></li>
+<li><strong>Individual Pcs Available</strong></li>
+<li><strong>Easy Pull Tab Recliner</strong></li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2149271109705</id>
+      <title>All 3 Pcs</title>
+      <s:price currency="CAD">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2149271109705</id>
+      <title>Sofa</title>
+      <s:price currency="CAD">659.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2149271109705</id>
+      <title>Loveseat</title>
+      <s:price currency="CAD">524.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2149271109705</id>
+      <title>Chair</title>
+      <s:price currency="CAD">314.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219573674057</id>
+    <published>2020-09-25T17:50:34-04:00</published>
+    <updated>2020-09-25T17:50:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/lena-led-power-sectional"/>
+    <title>SDM 8055 LED Power Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/SDM8055PowerLedSectional.jpg?v=1607806775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sharing this luxurious power motion sectional with your friends, family and guests.<br>Wrapped with smooth chocolate leather-aire and framed with hard wood, quality<br>and durability are guaranteed for your enjoyment. USB Ports are provided on both ends,<br>along with four cup cup holders and two storage consoles making it come in handy<br>for you to charge any electronics, keep a drink and stow away your remote controls.<br></p>
+<p><strong>SDMPWRSEC</strong> <strong>Power Sectional</strong></p>
+<p><strong>• Power Reclining Chairs</strong><br><strong>• USB Ports Built In To Charge Your Devices</strong><br><strong>• Four Cup Holders + 2 Storage Consoles</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219573674057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

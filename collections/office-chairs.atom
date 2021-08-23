@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://infiniteimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://infiniteimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://infiniteimports.ca/collections/office-chairs.atom"/>
+  <title>Infiniteimports</title>
+  <updated>2021-01-23T14:45:15-05:00</updated>
+  <author>
+    <name>Infiniteimports</name>
+  </author>
+  <entry>
+    <id>https://infiniteimports.ca/products/4736069435475</id>
+    <published>2021-01-23T14:45:15-05:00</published>
+    <updated>2021-01-23T14:45:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/copy-of-neo-red-black-pc-gaming-race-chair"/>
+    <title>Neo Orange &amp; Black PC Gaming Race Chair</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/1_2a3af378-8556-4451-8065-d5aa1f740fe8.jpg?v=1611431108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4736069435475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4736069369939</id>
+    <published>2021-01-23T14:41:21-05:00</published>
+    <updated>2021-01-23T14:41:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/neo-red-black-pc-gaming-race-chair"/>
+    <title>Neo Red &amp; Black PC Gaming Race Chair</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Untitled-1.jpg?v=1611430877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4736069369939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

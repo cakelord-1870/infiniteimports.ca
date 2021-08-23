@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://infiniteimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://infiniteimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://infiniteimports.ca/collections/bedroom-collection.atom"/>
+  <title>Infiniteimports</title>
+  <updated>2021-05-18T15:02:39-04:00</updated>
+  <author>
+    <name>Infiniteimports</name>
+  </author>
+  <entry>
+    <id>https://infiniteimports.ca/products/6564909088851</id>
+    <published>2021-05-18T15:02:39-04:00</published>
+    <updated>2021-05-18T15:02:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/tiffany-bedroom-set"/>
+    <title>Dakota Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Tifanywhitebed801.jpg?v=1621364560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Glamour abounds with the addition of the Dakota Collection 802 to your bedroom.</span><br data-mce-fragment="1"><span data-mce-fragment="1">The white finish is enhanced by the silver trim that frames each piece in the collection.</span><br data-mce-fragment="1"><span data-mce-fragment="1">The bed’s headboard features a padded faux leather insert that is accented by </span><span data-mce-fragment="1">LED-backlighting, that serves as the centerpiece of this sparkling collection. Extra Storage in the footboard of and a platform bed (no box spring is needed)</span><br data-mce-fragment="1"><span data-mce-fragment="1">The dresser, nightstand and chest feature faux-crystal chrome bar hardware pulls. Set feature LED </span><span data-mce-fragment="1">lights in the headboard and dresser mirror.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6564909088851</id>
+      <title>Queen Complete Set</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku>802Q</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6564909088851</id>
+      <title>King Complete Set</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku>802K</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550407938131</id>
+    <published>2021-03-30T17:19:40-04:00</published>
+    <updated>2021-03-30T17:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/valencia-bedroom-collection"/>
+    <title>Valencia Bedroom Collection</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Valencia.jpg?v=1617140508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            2499.00 - 2649.00
+            <a href="https://infiniteimports.ca/products/valencia-bedroom-collection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glamour abounds with the addition of the Valencia Collection to your bedroom.<br data-mce-fragment="1">The white Finish is enhanced by the silver trim that frames each piece in the collection.<br data-mce-fragment="1">The bed’s headboard features a padded faux leather insert that is accented by button-tufting and<br data-mce-fragment="1">LED-backlighting, that serves as the centerpiece of this sparkling collection.<br data-mce-fragment="1">The dresser, nightstand and chest feature faux-crystal chrome bar hardware pulls. Set feature LED lights in the headboard and dresser mirror + power and usb outlets built into the nightstands.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550407938131</id>
+      <title>queen</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550407938131</id>
+      <title>king</title>
+      <s:price currency="CAD">2649.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4715825332307</id>
+    <published>2020-11-24T21:23:59-05:00</published>
+    <updated>2020-11-24T21:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/samantha-bedroom-set"/>
+    <title>Samantha Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Screenshot_20201124-202823_WhatsApp.jpg?v=1606271215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            249.00 - 2649.00
+            <a href="https://infiniteimports.ca/products/samantha-bedroom-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><br></h1>
+<p><span>Uniting ageless design and modern taste, Samantha bedroom collection is sure to impress. The beautifully detailed design is complimented perfectly by white tone finish while sleek hardware lends to the authenticity of its modern appeal, sleek, refined and classy looks</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4715825332307</id>
+      <title>Queen Set All 8 Pcs</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4715825332307</id>
+      <title>King Set All 8 Pcs</title>
+      <s:price currency="CAD">2649.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4715825332307</id>
+      <title>King Bed Only</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4715825332307</id>
+      <title>Night Stand Only</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1726919770185</id>
+    <published>2020-09-25T17:50:57-04:00</published>
+    <updated>2020-09-25T17:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/sam-bedroom-set"/>
+    <title>Sam Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LH075A_SAM.jpg?v=1586027507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            129.90 - 454.65
+            <a href="https://infiniteimports.ca/products/sam-bedroom-set">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sam bedroom set: Dark espresso color, available in one color only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726919770185</id>
+      <title>Queen Bed</title>
+      <s:price currency="CAD">454.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726919770185</id>
+      <title>Dresser Mirror</title>
+      <s:price currency="CAD">324.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726919770185</id>
+      <title>Chest</title>
+      <s:price currency="CAD">259.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726919770185</id>
+      <title>Night Stand</title>
+      <s:price currency="CAD">129.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726919770185</id>
+      <title>Full/Double Bed</title>
+      <s:price currency="CAD">434.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1726960107593</id>
+    <published>2020-09-25T17:50:56-04:00</published>
+    <updated>2020-09-25T17:50:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/toronto-bedroom-set-1"/>
+    <title>Toronto Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/toronto_bedroom_set.gif?v=1586027515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            1799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Toronto Bedroom Set: walnut color. Drawers in the foot board, Platform bed no box spring needed, espresso color.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726960107593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1726922227785</id>
+    <published>2020-09-25T17:50:56-04:00</published>
+    <updated>2020-09-25T17:50:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/toronto-bedroom-set"/>
+    <title>Queen Adelaide Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LH123A_ADELAINE.jpg?v=1586027488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            169.00 - 594.65
+            <a href="https://infiniteimports.ca/products/toronto-bedroom-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adelaide Bedroom Set: Available in Dark Walnut brown color, item has classic distressing look on all pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>chest</s:tag>
+    <s:tag>Dresser</s:tag>
+    <s:tag>Night table</s:tag>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726922227785</id>
+      <title>Queen Size Bed</title>
+      <s:price currency="CAD">594.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726922227785</id>
+      <title>Dresser Mirror</title>
+      <s:price currency="CAD">509.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726922227785</id>
+      <title>Chest</title>
+      <s:price currency="CAD">339.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1726922227785</id>
+      <title>Night Stand</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1752059052105</id>
+    <published>2020-09-25T17:50:53-04:00</published>
+    <updated>2020-09-25T17:50:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/nina-bedroom-set"/>
+    <title>Nina Bedroom set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/FurnitureofAmericaCM7869BlytheBedroomSet.jpg?v=1586027504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nina Bedroom set, includes all 8 pcs in queen size or king also available</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>Bedroom set</s:tag>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1752059052105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1752953847881</id>
+    <published>2020-09-25T17:50:52-04:00</published>
+    <updated>2020-09-25T17:50:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/1810-bedroom-set"/>
+    <title>Queen Size 1810 Bedroom Set All 8 Pcs</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Catalog1_Page_41.jpg?v=1601069617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            2099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1810 Bedroom Set: Available Dark walnut color. Solid wood bedroom set, full extensions. Dark walnut/Cherry colors, solid wood veneers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1752953847881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1753255608393</id>
+    <published>2020-09-25T17:50:51-04:00</published>
+    <updated>2020-09-25T17:50:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/grace-bedroom-set"/>
+    <title>Luis Bed only</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LOUIS.jpg?v=1586027502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Luis Bed: Cherry color. Drawers in the foot board for extra storage, Platform bed no box spring needed.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753255608393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1753247449161</id>
+    <published>2020-09-25T17:50:51-04:00</published>
+    <updated>2020-09-25T17:50:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/thor-bedroom-set"/>
+    <title>Thor Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LH079A_THOR.jpg?v=1586027514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            179.00 - 1949.00
+            <a href="https://infiniteimports.ca/products/thor-bedroom-set">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Thor Bedroom Set: walnut color, available in dark walnut color. Drawers in the foot board, Platform bed no box spring needed, color is darker than the first picture.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>Queen Size Bed</title>
+      <s:price currency="CAD">629.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>King Size Bed</title>
+      <s:price currency="CAD">779.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>Dresser Mirror</title>
+      <s:price currency="CAD">449.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>Chest</title>
+      <s:price currency="CAD">359.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>Night Stand</title>
+      <s:price currency="CAD">179.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>Queen Size Set All 8 Pcs</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1753247449161</id>
+      <title>King Size Set All 8 Pcs</title>
+      <s:price currency="CAD">1949.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1759035555913</id>
+    <published>2020-09-25T17:50:46-04:00</published>
+    <updated>2020-09-25T17:50:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/omega-bedroom-set"/>
+    <title>Omega Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/omega.jpg?v=1586027504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Omega Bedroom Set: Espresso color, available with 5 drawer chest. All solid wood, and metal handles</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>chest</s:tag>
+    <s:tag>Dresser</s:tag>
+    <s:tag>Night table</s:tag>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1759035555913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2060929826889</id>
+    <published>2020-09-25T17:50:45-04:00</published>
+    <updated>2020-09-25T17:50:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/5870-bedroom-set"/>
+    <title>5870 Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/5870.jpg?v=1586027483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- NO ETA FOR STOCK</p>
+<p>5870 Bedroom Set: Available Dark walnut color. Solid wood bedroom set, full extensions. Dark walnut/Cherry colors, solid wood veneers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>Bedroom set</s:tag>
+    <s:tag>chest</s:tag>
+    <s:tag>Dresser</s:tag>
+    <s:tag>Night table</s:tag>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2060929826889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1890945302601</id>
+    <published>2020-09-25T17:50:45-04:00</published>
+    <updated>2020-09-25T17:50:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/grace-bedroom-set-1"/>
+    <title>Grace Bedroom Set</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LH132B.jpg?v=1586027497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Grace Bedroom Set: Grey mixed Black color. LED Lights in the Headboard with Dual control and 3 levels of brightness. Big Chrome Handles and dovetailed drawers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1890945302601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4411479326803</id>
+    <published>2020-09-25T17:50:26-04:00</published>
+    <updated>2020-09-25T17:50:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/lacey"/>
+    <title>Lacey</title>
+    <s:type>Bedroom set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/lacey_bedroom_set_1749ef58-6606-495b-bb7a-9db87b25a4d1.jpg?v=1586027501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bedroom set<br>
+        <strong>Price: </strong>
+            169.00 - 594.65
+            <a href="https://infiniteimports.ca/products/lacey">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span>Grey Color Bedroom Set</span></h1>
+<p><span>Uniting ageless design and modern taste, the Lacey bedroom collection is sure to impress. The beautifully detailed paneled design is complimented perfectly by grey tone finish while sleek hardware lends to the authenticity of its modern appeal. Sleek, refined and classy, this bedroom set will highlight your personal preference for contemporary styling. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4411479326803</id>
+      <title>Queen Size Bed</title>
+      <s:price currency="CAD">594.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4411479326803</id>
+      <title>Dresser Mirror</title>
+      <s:price currency="CAD">424.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4411479326803</id>
+      <title>Chest</title>
+      <s:price currency="CAD">339.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4411479326803</id>
+      <title>Night Stand</title>
+      <s:price currency="CAD">169.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

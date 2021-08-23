@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://infiniteimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://infiniteimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://infiniteimports.ca/collections/sectional-collection.atom"/>
+  <title>Infiniteimports</title>
+  <updated>2021-04-27T13:58:48-04:00</updated>
+  <author>
+    <name>Infiniteimports</name>
+  </author>
+  <entry>
+    <id>https://infiniteimports.ca/products/2149125423177</id>
+    <published>2021-04-27T13:58:48-04:00</published>
+    <updated>2021-04-27T13:58:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/2325-sectional-fabric-grey"/>
+    <title>2325 Sectional Fabric Grey</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Catalog1_Page_13.jpg?v=1601070287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name top-product-detail">
+<h2><span itemprop="name">2325 - 3 Piece Sectional</span></h2>
+</div>
+<div class="review-product-details">
+<span class="shopify-product-reviews-badge" data-id="10995563274"></span><a href="https://ashleyhomestore.ca/collections/living-room/products/afhs-1424718k?variant=44422273290#looxReviews">
+<div class="loox-rating" data-id="10995563274" data-rating="" data-raters=""></div>
+</a>
+</div>
+<div class="short-description-detail">
+<div class="short-description-detail">
+<div class="short-description" itemprop="description">Supportive back and seat cushions along with tufting and detailing. Grey color with skillfully crafted construction. Double padded arms with fabric exceeding over 100,000 double rubs. For a limited time available with a FREE storage ottoman and 4 throw pillows Reversible side (chaise facing right) is also available. </div>
+<div class="short-description" itemprop="description"></div>
+<div class="short-description" itemprop="description">
+<h3 class="title">Dimensions</h3>
+<p>Sectional (110”L 82”W 37”H)</p>
+<h3 class="title">Material &amp; Colour</h3>
+<p>Grey Fabric </p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2149125423177</id>
+      <title>Sectional with chaise facing left</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2149125423177</id>
+      <title>Sectional with chaise facing right</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6558810177619</id>
+    <published>2021-04-24T13:30:53-04:00</published>
+    <updated>2021-04-24T13:30:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/julia-black-leather-air-reversible-sectional"/>
+    <title>Julia Black Leather Air Reversible Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/juliablackairleather2.jpg?v=1619285467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title" data-mce-fragment="1">A hint of retro styling provides a clean and classic look for your contemporary home<br>in the Julia Collection. The sectional configuration allows for the perfect placement within your living room. Brown fabric that furthers the look and versatility for placement within<br>a number of home decors.<br></p>
+<p class="title" data-mce-fragment="1"><strong>JULIABRN-1 Sectional 108”W 78”D 36”H</strong><br><strong>JULIABRN-2 Ottoman 24”W 30”D 18”H</strong><br></p>
+<ul>
+<li><strong>Reversible Sectional</strong></li>
+<li><strong>Storage Ottoman Included</strong></li>
+<li><strong>Fabric Finish</strong></li>
+<li><strong>Removable Cushions</strong></li>
+</ul>
+<h3 class="title" data-mce-fragment="1"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6558810177619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku>JuliaBlackLG</s:sku>
+      <s:grams>60000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6558800576595</id>
+    <published>2021-04-24T12:33:29-04:00</published>
+    <updated>2021-04-24T12:33:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/julia-brown-leather-air-reversible-sectional"/>
+    <title>Julia Brown Leather Air Reversible Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/juliabrownairleather2.jpg?v=1619285350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title" data-mce-fragment="1">A hint of retro styling provides a clean and classic look for your contemporary home<br>in the Julia Collection. The sectional configuration allows for the perfect placement within your living room. Brown fabric that furthers the look and versatility for placement within<br>a number of home decors.<br></p>
+<p class="title" data-mce-fragment="1"><strong>JULIABRN-1 Sectional 108”W 78”D 36”H</strong><br><strong>JULIABRN-2 Ottoman 24”W 30”D 18”H</strong><br></p>
+<ul>
+<li><strong>Reversible Sectional</strong></li>
+<li><strong>Storage Ottoman Included</strong></li>
+<li><strong>Fabric Finish</strong></li>
+<li><strong>Removable Cushions</strong></li>
+</ul>
+<h3 class="title" data-mce-fragment="1"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6558800576595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku>JuliaBrowonLG</s:sku>
+      <s:grams>60000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4684820381779</id>
+    <published>2021-04-05T13:58:42-04:00</published>
+    <updated>2021-04-05T13:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/shelly-2007"/>
+    <title>Shelly #2007</title>
+    <s:type>Sofa Set</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/1-2_119c9328-0976-484d-8e93-f0fa8008a85d.jpg?v=1600701978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Sofa Set<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Symmetrical U shape sectional in a beautiful grey finish. This sectional is the perfect piece for any family room. It can be re arranged into a large bed so the whole family can cozy up for movie night or it can be easily re arranged into a sectional with ample seating for friends and family. The Shelly sectional is a medium firmness seating so that it still provides comfort while still supporting you.</p>
+<p> </p>
+<p>Modular Sectional</p>
+<p>Unlimited Ways to Configure</p>
+<p>Grey Durable Fabric; Can Be Made Into A Bed</p>
+<p>Enough Room For The Whole Family</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4684820381779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4688519856211</id>
+    <published>2021-04-02T12:28:50-04:00</published>
+    <updated>2021-04-02T12:28:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/grey-velvet-reversible-sectional"/>
+    <title>Julia Grey Velvet Reversible Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/studiovelvetgrey.jpg?v=1600981212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title" data-mce-fragment="1">A hint of retro styling provides a clean and classic look for your contemporary home<br>in the Julia Collection. The sectional configuration allows for the perfect placement within your living room. Gray fabric that furthers the look and versatility for placement within a number of home decors.</p>
+<p class="title" data-mce-fragment="1"><br><strong>JULIAGRY-1 Sectional 108”W 78”D 36”H</strong><br><strong>JULIAGRY-2 Ottoman 24”W 30”D 18”H</strong><br></p>
+<ul>
+<li><strong>Reversible Sectional</strong></li>
+<li><strong>Storage Ottoman Included</strong></li>
+<li><strong>Velvet Finish</strong></li>
+<li><strong>Removable Cushions</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4688519856211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4688519921747</id>
+    <published>2021-04-02T12:28:40-04:00</published>
+    <updated>2021-04-02T12:28:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/brown-velvet-reversible-sectional"/>
+    <title>Julia Brown Reversible Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/JuliaBrownFabric_500x_c9bc8f14-9e82-4c10-931d-13bb08cbcc74.jpg?v=1607360114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title" data-mce-fragment="1">A hint of retro styling provides a clean and classic look for your contemporary home<br>in the Julia Collection. The sectional configuration allows for the perfect placement within your living room. Brown fabric that furthers the look and versatility for placement within<br>a number of home decors.<br></p>
+<p class="title" data-mce-fragment="1"><strong>JULIABRN-1 Sectional 108”W 78”D 36”H</strong><br><strong>JULIABRN-2 Ottoman 24”W 30”D 18”H</strong><br></p>
+<ul>
+<li><strong>Reversible Sectional</strong></li>
+<li><strong>Storage Ottoman Included</strong></li>
+<li><strong>Fabric Finish</strong></li>
+<li><strong>Removable Cushions</strong></li>
+</ul>
+<h3 class="title" data-mce-fragment="1"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4688519921747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550598615123</id>
+    <published>2021-03-31T12:28:56-04:00</published>
+    <updated>2021-03-31T12:28:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/8063-led-power-sectional"/>
+    <title>8063 LED Power Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_353a478b-184d-4aec-9119-05d3fda67fd1.jpg?v=1617208344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sharing this luxurious power motion sectional with your friends, family and guests.<br>Wrapped with smooth chocolate leather-aire and framed with hard wood, quality<br>and durability are guaranteed for your enjoyment. USB Ports are provided on both ends,<br>along with four light up cup holders and 2 storage consoles making it come in handy<br>for you to charge any electronics, keep a drink and stow away your remote controls.</p>
+<p><strong>8063PWRSEC Power Sectional</strong></p>
+<p><strong>• Power Reclining Chairs<br>• USB Ports Built In To Charge Your Devices<br>• Four Cup Holders + 2 Storage Consoles</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550598615123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550597926995</id>
+    <published>2021-03-31T11:07:17-04:00</published>
+    <updated>2021-03-31T11:07:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/harper-brown-recliner-sectional-with-led-usb-storage"/>
+    <title>Harper Brown Recliner Sectional With LED + USB + STORAGE</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_668cb44c-85b1-4ff3-92ea-703160f42997.jpg?v=1617203230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You and yours will love getting together for movie night when you enjoy the ultra-modern amenities and classic comfort of this contemporary reclining L-shaped sectional for the den or living room. Upholstered in sumptuous breathable leatherette, this sectional comes with two storage consoles with two sets of cupholders and built-in LED lighting underneath with a simple press of a button, while the contoured padding of the arms and backs makes this family gathering place as comfortable as it is elegant.</p>
+<p><strong>HARPER-BRN Sectional</strong></p>
+<p><strong>• Power touch button recliner controls<br>• USB Outlets<br>• 2 Storage Consoles + 4 Steel Cup Holders<br>• Cross stitch detailing</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550597926995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6550597009491</id>
+    <published>2021-03-31T11:05:07-04:00</published>
+    <updated>2021-03-31T11:05:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/harper-black-recliner-sectional-with-led-usb-storage"/>
+    <title>Harper Black Recliner Sectional With LED + USB + STORAGE</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/4_3a39276e-7d93-4081-b5b3-36f107db1c18.jpg?v=1617202987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You and yours will love getting together for movie night when you enjoy the ultra-modern amenities and classic comfort of this contemporary reclining L-shaped sectional for the den or living room. Upholstered in sumptuous breathable leatherette, this sectional comes with two storage consoles with two sets of cupholders and built-in LED lighting underneath with a simple press of a button, while the contoured padding of the arms and backs makes this family gathering place as comfortable as it is elegant.</p>
+<p><strong>HARPER-BLK Sectional</strong></p>
+<p><strong>• Power touch button recliner controls<br>• USB Outlets<br>• 2 Storage Consoles + 4 Steel Cup Holders<br>• Cross stitch detailing</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6550597009491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6548809613395</id>
+    <published>2021-03-25T14:44:15-04:00</published>
+    <updated>2021-03-25T14:44:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/9289-brown-sectional"/>
+    <title>8289 Brown Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Untitled-2.jpg?v=1616697979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="title"><span>Reversible sectional with storage</span></h1>
+<ol>
+<li>
+<h4>Built in Storage</h4>
+</li>
+<li>
+<h4>Pocket Coil Seating</h4>
+</li>
+<li>
+<h4>Removable Covers</h4>
+</li>
+</ol>
+<p class="title"><span>Model 9289 is a two pieces sectional with storage in the chaise on the right or left. Strong metal hinges are spring-loaded for stability and has stainless steel holders. Upholstered in beautiful grey high quality is woven fabric and has pocket coil seating to ensure great comfort and long life. Size of the Sectional is 102 Inches x 80 Inches and 80 Inches is the chaise size. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6548809613395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/6544826171475</id>
+    <published>2021-03-16T12:51:04-04:00</published>
+    <updated>2021-03-16T12:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/1111-sectional-recliner"/>
+    <title>1111 Sectional Recliner</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/IMG-20210316-WA0004.jpg?v=1615913470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1111 sectional comes with recliner, drop down tray with cup holders, pocket pouch, drawer under the seat and built-in storage ottoman leather gel. </p>
+<p> </p>
+<p>110 x 82</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/6544826171475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4746373791827</id>
+    <published>2021-02-12T12:35:32-05:00</published>
+    <updated>2021-02-12T12:35:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/2327-grey-fabric-reversible-sectional-with-storage-ottoman"/>
+    <title>2327 Reversible Sectional With Ottoman</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/22222222222.jpg?v=1618499312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="card__header" data-mce-fragment="1">
+<p class="card__title heading h3" data-mce-fragment="1"><span>Subtle texture lends visual and tactile interest in the 2327 Collection. The set-up process allows you to configure the 3-seat unit to accommodate the chaise on either the left or right side, providing for perfect placement within your living space.</span></p>
+<p class="card__title heading h3" data-mce-fragment="1"><strong>2327 Sectional 110”W 76”D 36”H</strong><br><strong>2327 Ottoman 30”W 24”D 17.5”H</strong><br></p>
+<ul>
+<li><strong>Reversible</strong></li>
+<li><strong>Ottoman Included</strong></li>
+<li><strong>Nailhead Trim</strong></li>
+<li><strong>Padded Back Rest</strong></li>
+</ul>
+</div>
+<div class="card__section expandable-content" aria-expanded="true" data-mce-fragment="1">
+<div class="rte text--pull" data-mce-fragment="1"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4746373791827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4736074874963</id>
+    <published>2021-01-23T15:10:57-05:00</published>
+    <updated>2021-01-23T15:10:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/6812-6047-sectional-with-pull-out-bed"/>
+    <title>6812-6047 Sectional with Pull Out Bed</title>
+    <s:type>Sofa Bed</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/6812-1.jpg?v=1617221593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>Sofa Bed<br>
+        <strong>Price: </strong>
+            1149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="model_description"><span>6047-6812 is a 2-Piece Sectional with Pull-out Bed and Hidden Storage, Available in chaise facing left or chaise facing right.</span></div>
+<div>
+<div class="cle"><br></div>
+</div>
+<div class="cle"></div>
+<div class="informationDiv">
+<div>
+<p>Providing the flexible option for relaxation, sleep and storage, 6047 Sleeper sofa will be a stylish and functional addition to your living room. Storage chaise is also included with the set. The lower portion of the seating configuration pulls out to reveal a pop up trundle that creates a bed space creating a relaxing environment with minimal effort. Grey color technical thick and durable fabric is used to upholster this unique set </p>
+<p><strong>6812GRY Sectional 102”W 62”D 42”H</strong><br></p>
+<ul>
+<li><strong>Technical Nubuck Fabric</strong></li>
+<li><strong>Pull Out Sofa Bed</strong></li>
+<li><strong>Built In Storage In Chaise</strong></li>
+<li><strong>High Back Rest</strong></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4736074874963</id>
+      <title>Chaise Facing Right</title>
+      <s:price currency="CAD">1149.00</s:price>
+      <s:sku/>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4736048627795</id>
+    <published>2021-01-23T12:11:42-05:00</published>
+    <updated>2021-01-23T12:11:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/copy-of-107-reversible-sectional-beige"/>
+    <title>107 Reversible Sectional 2-Tone</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/1072tone.jpg?v=1611421997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title" data-mce-fragment="1">A hint of retro styling provides a clean and classic look for your contemporary home<br>in the 107 Collection. The sectional configuration allows for the perfect placement within<br>your living room. Beige fabric and brown faux leather that furthers the look and versatility for placement within a number of home decors.</p>
+<p class="title" data-mce-fragment="1"><br><strong>107BEI/BRN-1 Sectional 108”W 82”D 34”H</strong><br><strong>107BEI/BRN-2 Ottoman 24”W 30”D 18”H</strong><br></p>
+<ul>
+<li><strong>Reversible Sectional</strong></li>
+<li><strong>Storage Ottoman Included</strong></li>
+<li><strong>Faux Leather/Fabirc Finish</strong></li>
+<li><strong>Drop Tray With 2 Cup Holders</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4736048627795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4736047743059</id>
+    <published>2021-01-23T12:04:56-05:00</published>
+    <updated>2021-01-23T12:04:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/copy-of-grey-velvet-reversible-sectional"/>
+    <title>107 Reversible Sectional Beige</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/107BeigeSectional_2325.jpg?v=1611421869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title" data-mce-fragment="1">A hint of retro styling provides a clean and classic look for your contemporary home<br>in the 107 Collection. The sectional configuration allows for the perfect placement within<br>your living room. Beige faux leather that furthers the look and versatility for placement within a number of home decors.</p>
+<p class="title" data-mce-fragment="1"><br><strong>107BEI-1 Sectional 108”W 82”D 34”H</strong><br><strong>107BEI-2 Ottoman 24”W 30”D 18”H</strong><br></p>
+<ul>
+<li><strong>Reversible Sectional</strong></li>
+<li><strong>Storage Ottoman Included</strong></li>
+<li><strong>Faux Leather Finish</strong></li>
+<li><strong>Drop Tray With 2 Cup Holders</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4736047743059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4735792283731</id>
+    <published>2021-01-22T17:27:34-05:00</published>
+    <updated>2021-01-22T17:27:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/rui-reversible-sleeper-sectional-sofa-bed"/>
+    <title>Rui 6038 Reversible Sleeper Sectional Sofa Bed</title>
+    <s:type>sectional</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/9004FrontFeatures_7e36cfb9-7416-4d0d-8783-8420ffa5148d.jpg?v=1611354452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casual contemporary styling creates a modern look for your living room in the Rui Collection. The reversible configuration of the three-seat sectional comes in the form of the chaise that is utilized as the base for the reversible end chaise cushion and arms, creating the option of a left or right extension of the sofa seating. The two-seat section of the sofa features a pull-out bed that, when extended, pairs to the chaise to create a bed. The gray fabric cover paired with the streamlined profile of the sofa lend to the versatile look of the collection.</p>
+<p><br><strong>RUI Sectional 88”W 60”D 36”H</strong><br></p>
+<ul>
+<li><strong>Reversible</strong></li>
+<li><strong>Pull Out Sofa Bed</strong></li>
+<li><strong>Built In Storage In Chaise</strong></li>
+<li><strong>Padded Back Rest</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4735792283731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4714847567955</id>
+    <published>2020-11-22T10:57:48-05:00</published>
+    <updated>2020-11-22T10:57:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/victor-sofa-bed-with-stools"/>
+    <title>Victor Sofa Bed with Stools</title>
+    <s:type>Sofa Bed</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/victornew1.jpg?v=1617644754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Sofa Bed<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;" class="title" data-mce-style="text-align: center;">
+<p style="text-align: left;" class="title" data-mce-style="text-align: left;">95'' Reversible Sleeper Sofa &amp; Chaise with Ottoman and Built in Book Shelf in the Arm Rest. This product is for ultimate relaxation, entertain and rest. This sectional has a simple design to fit a variety of living room styles. It features a modular structure covered in poly-fiber linen-blend fabric with a pullout bed and a functional lower storage compartment in the chaise.</p>
+<p style="text-align: left;" class="title" data-mce-style="text-align: left;"><strong>10026 Sleeper Sofa Sectional 96"W 57"D 33"H<br></strong><br><strong>           • Storage Chaise</strong><br><strong>           • Built In Shelves</strong><br><strong>           • Pull Out Sofa Bed</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4714847567955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1721635504201</id>
+    <published>2020-09-25T17:51:02-04:00</published>
+    <updated>2020-09-25T17:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/grey-usb-sectional"/>
+    <title>9289 USB Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/3_f2763d64-df4d-4bdb-9268-fce1a846658d.jpg?v=1617222202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title">With space to lounge out with the whole family during binge-worthy<br>TV marathons, sectional sofas are a must-have for maximizing both<br>seating arrangements and comfort in your abode. Take this one for<br>example: a clean and classic look, featuring built in USB and Power Outlets,<br>two hide away cup holders with a drop down tray, plus built in storage<br>ottoman in the chaise.</p>
+<p class="title"><strong>9289GRY-1 Reversible Sectional 79"D 102"W 37"H</strong></p>
+<p class="title"><strong>• Built In USB &amp; Power Outlets<br>• Storage Ottoman Built Into The Chaise<br>• Reversible Configuration</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1721635504201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/1727427805257</id>
+    <published>2020-09-25T17:50:55-04:00</published>
+    <updated>2020-09-25T17:50:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/led-power-sectional-black-color-with-studs"/>
+    <title>30850 LED Power Sectional Black Color With Studs</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/30850_resized.jpg?v=1586027480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LED Power Sectional Black Color With Studs, Class, Looks and Comfort at its best. </p>
+<p>3 power recliners with 4 cup holders and LEDs in cup holders and on the bottom of the sectional. Leather gel for best quality and longevity. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/1727427805257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2153146253385</id>
+    <published>2020-09-25T17:50:42-04:00</published>
+    <updated>2020-09-25T17:50:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/3333-big-sofa-bed-with-klick-klack-back"/>
+    <title>3333 Sleeper Sectional Sofa</title>
+    <s:type>Sofa Bed</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Untitled-1_e564d1cb-cac4-4509-a4fd-9021f357ae9c.jpg?v=1617644226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Sofa Bed<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="title">A graceful shape and clean lines blend together to create this amazing<br>contemporary sofa bed sectional for your space. Featuring a lovely<br>grey fabric with fully padded seating and backs. Sofa bed not only pulls<br>out from the front but also the back rests go down to create an instantly<br>available king size sleeping area. This is a great addition to any living area.<br></p>
+<p class="title"><strong>3333GRY Sleeper Sectional Overall Size 81"L 72"0 37"H</strong><br></p>
+<ul>
+<li><strong>Upholstery Colour: Grey</strong></li>
+<li><strong>Upholstery Material: Polyester</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2153146253385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2154744479817</id>
+    <published>2020-09-25T17:50:40-04:00</published>
+    <updated>2020-09-25T17:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/mini-sectional-fabric-grey"/>
+    <title>Infinite Sectional 6052B Fabric Grey</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/newpillows_600x_1dbd7702-5fe6-457b-9564-531e6f79b906.jpg?v=1621287237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name top-product-detail">
+<h2><span itemprop="name">6052B Sectional Grey Color Reversible Includes 2 Throw pillows</span></h2>
+</div>
+<div class="review-product-details">
+<span class="shopify-product-reviews-badge" data-id="10995563274"></span><a href="https://ashleyhomestore.ca/collections/living-room/products/afhs-1424718k?variant=44422273290#looxReviews">
+<div class="loox-rating" data-id="10995563274" data-rating="" data-raters=""></div>
+</a>
+</div>
+<div class="short-description-detail">
+<div class="short-description-detail">
+<div class="short-description" itemprop="description">Supportive back and seat cushions, Grey color with skillfully crafted construction,, Reversible side (chaise facing right or left), or can also be used as a 4 seater set as well. </div>
+<div class="short-description" itemprop="description"></div>
+<div class="short-description" itemprop="description"></div>
+<div class="short-description" itemprop="description">
+<h3 class="title">Dimensions</h3>
+<p>Sectional (82”L 29”W 34”H), Chaise side (54")</p>
+<h3 class="title">Material &amp; Colour</h3>
+<p>Grey Fabric </p>
+<p>Linen</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2154744479817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>6038mini</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219573674057</id>
+    <published>2020-09-25T17:50:34-04:00</published>
+    <updated>2020-09-25T17:50:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/lena-led-power-sectional"/>
+    <title>SDM 8055 LED Power Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/SDM8055PowerLedSectional.jpg?v=1607806775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sharing this luxurious power motion sectional with your friends, family and guests.<br>Wrapped with smooth chocolate leather-aire and framed with hard wood, quality<br>and durability are guaranteed for your enjoyment. USB Ports are provided on both ends,<br>along with four cup cup holders and two storage consoles making it come in handy<br>for you to charge any electronics, keep a drink and stow away your remote controls.<br></p>
+<p><strong>SDMPWRSEC</strong> <strong>Power Sectional</strong></p>
+<p><strong>• Power Reclining Chairs</strong><br><strong>• USB Ports Built In To Charge Your Devices</strong><br><strong>• Four Cup Holders + 2 Storage Consoles</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219573674057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4384126435411</id>
+    <published>2020-09-25T17:50:29-04:00</published>
+    <updated>2020-09-25T17:50:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/tricia-led-power-sectional"/>
+    <title>Tricia LED Power Sectional</title>
+    <s:type>sectional</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LED_Chocolate_Sectional_power.jpg?v=1607705246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>sectional<br>
+        <strong>Price: </strong>
+            2299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tricia LED Power Sectional Brown Color With Gold Contrast Stitch, Class, Looks and Comfort at its best. </p>
+<p>3 power recliners with 4 cup holders and LEDs in cup holders and on the bottom of the sectional. Leather Air for best quality and longevity. USB Charging ports are also included in the cup holders</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4384126435411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4384136101971</id>
+    <published>2020-09-25T17:50:28-04:00</published>
+    <updated>2020-09-25T17:50:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/sectional-with-pull-out-bed-6156"/>
+    <title>6156 Sleeper Sectional</title>
+    <s:type>Sofa Bed</s:type>
+    <s:vendor>Infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/6156ChaiseFacingLeft_500x_7f5e01f1-1447-4807-9338-6911f5c6d57f.jpg?v=1615927483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infiniteimports<br>
+        <strong>Type: </strong>Sofa Bed<br>
+        <strong>Price: </strong>
+            1349.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="model_description"><span>6156 is a 3-Piece Sectional with Pull-out Bed and Hidden Storage</span></div>
+<div>
+<div class="cle"><br></div>
+</div>
+<div class="cle">
+<div>
+<p>Providing the flexible option for relaxation, sleep and storage, 6156 Sleeper sofa will be a stylish and functional addition to your living room. Storage ottoman is also included with the set along with 2 throw pillows. The lower portion of the seating configuration pulls out to reveal a pop up trundle that creates a bed space creating a relaxing environment with minimal effort. Grey color technical thick and durable fabric is used to upholster this unique set and is also equipped with USB charging ports on the side of the arm for easy access to a charging port.</p>
+<p>116" x 88"</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4384136101971</id>
+      <title>Chaise Facing Left</title>
+      <s:price currency="CAD">1349.99</s:price>
+      <s:sku>6156L</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4384136101971</id>
+      <title>Chaise Facing Right</title>
+      <s:price currency="CAD">1349.99</s:price>
+      <s:sku>6156R</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

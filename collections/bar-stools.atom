@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://infiniteimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://infiniteimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://infiniteimports.ca/collections/bar-stools.atom"/>
+  <title>Infiniteimports</title>
+  <updated>2020-12-04T15:10:10-05:00</updated>
+  <author>
+    <name>Infiniteimports</name>
+  </author>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720019112019</id>
+    <published>2020-12-04T15:10:10-05:00</published>
+    <updated>2020-12-04T15:10:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-11068-black"/>
+    <title>11068 Black Bar Stool FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/4_d2177dfe-7109-43ff-999f-8e8c83f3e544.jpg?v=1619291266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20W x 18.5D x 33-43H inches</strong></li>
+<li><strong>Metal frame with black leather seat cover</strong></li>
+<li><strong>Black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720019112019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720019046483</id>
+    <published>2020-12-04T15:09:33-05:00</published>
+    <updated>2020-12-04T15:09:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-11068-white"/>
+    <title>11068 White Bar Stool FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/1_5cecc741-2e18-4023-b079-3bde839f11b5.jpg?v=1611341764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20W x 18.5D x 33-43H inches</strong></li>
+<li><strong>Metal frame with padded seat cover</strong></li>
+<li><strong>Chrome and white Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720019046483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720018686035</id>
+    <published>2020-12-04T15:08:46-05:00</published>
+    <updated>2020-12-04T15:08:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-1158-white"/>
+    <title>1158 White Bar Stool FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1158-1WHITE.jpg?v=1607112548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>18W x 18D x 23-33H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>White with black piping</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720018686035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720018587731</id>
+    <published>2020-12-04T15:08:02-05:00</published>
+    <updated>2020-12-04T15:08:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1156-dark-white"/>
+    <title>1156 White Bar Stool FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1156WHITE.jpg?v=1619290035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 16D x 33-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and White 􀏐inish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720018587731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720018358355</id>
+    <published>2020-12-04T15:07:27-05:00</published>
+    <updated>2020-12-04T15:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1156-dark-black"/>
+    <title>1156 Black Bar Stool FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1156black.jpg?v=1619289981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 16D x 34-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and Black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720018358355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720013246547</id>
+    <published>2020-12-04T14:47:51-05:00</published>
+    <updated>2020-12-04T14:47:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1156-dark-grey"/>
+    <title>1156 Grey Bar Stool FINISH: Grey</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1156DARKGREY.jpg?v=1617130024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 16D x 34-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and grey Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720013246547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720012984403</id>
+    <published>2020-12-04T14:46:58-05:00</published>
+    <updated>2020-12-04T14:46:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/copy-of-bar-stool-ls-1132s-white"/>
+    <title>1132S White Bar Stool FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/2_f791d66b-9e3a-4db6-9c58-6b20f550c68d.jpg?v=1619291083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20.5W x 17D x 30-40H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and white Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720012984403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720012918867</id>
+    <published>2020-12-04T14:46:24-05:00</published>
+    <updated>2020-12-04T14:46:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1132s-black"/>
+    <title>1132S Black Bar Stool FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/2_145bbcb0-85ff-4995-af02-d7d4739ac21e.jpg?v=1619291190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20.5W x 17D x 30-40H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720012918867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720011706451</id>
+    <published>2020-12-04T14:43:29-05:00</published>
+    <updated>2020-12-04T14:43:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1101v-black-with-white-trim"/>
+    <title>1101S Black W/ White Piping FINISH: Black/White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1101S-1BLACK.jpg?v=1607111073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 21D x 34-44H inches</strong></li>
+<li><strong>Metal frame with black leather seat cover</strong></li>
+<li><strong>Black Finish with white piping</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720011706451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4720010494035</id>
+    <published>2020-12-04T14:38:44-05:00</published>
+    <updated>2020-12-04T14:38:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1101v-with-arm-rest"/>
+    <title>1101V Red Bar Stool W/ Arms FINISH: Red</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1101VWITHARMRESTRED.jpg?v=1607110761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20.5W x 21D x 34-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and Red Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4720010494035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4703163449427</id>
+    <published>2020-10-22T16:18:38-04:00</published>
+    <updated>2020-10-22T16:18:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-1110-1a-red"/>
+    <title>1110 A Red Bar Stool FINISH: Red</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/2_108afd5a-8002-4143-afba-0977c370bfbd.jpg?v=1619289677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>18W x 18.75D x 30-40.75H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and Red finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable curved back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4703163449427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4703161188435</id>
+    <published>2020-10-22T16:12:00-04:00</published>
+    <updated>2020-10-22T16:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-1110-1a-white-1"/>
+    <title>1110 A White Bar Stool FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/2.jpg?v=1619289685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>18W x 18.75D x 30-40.75H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and white 􀏐inish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable curved back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4703161188435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4703160827987</id>
+    <published>2020-10-22T16:11:00-04:00</published>
+    <updated>2020-10-22T16:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-1110-1a-black"/>
+    <title>1110 A Black Bar Stool FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/2_c8f703dd-4b69-4a47-9fe1-fb8037b0cbd8.jpg?v=1619289741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>18W x 18.75D x 30-40.75H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and Black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable curved back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4703160827987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/4703160205395</id>
+    <published>2020-10-22T16:09:02-04:00</published>
+    <updated>2020-10-22T16:09:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1101v-grey"/>
+    <title>1101V Grey Bar Stool FINISH: Grey Fabric</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/9.jpg?v=1619290784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 21D x 34-44H inches</strong></li>
+<li><strong>Metal frame with padded seat cover</strong></li>
+<li><strong>Chrome and grey 􀏐inish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/4703160205395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219569086537</id>
+    <published>2020-09-25T17:50:37-04:00</published>
+    <updated>2020-09-25T17:50:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1101v-black-1"/>
+    <title>1101 V Black Bar Stool No Arms FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1101VBLACK.jpg?v=1619290517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 21D x 33-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219569086537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219569741897</id>
+    <published>2020-09-25T17:50:36-04:00</published>
+    <updated>2020-09-25T17:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-11121black"/>
+    <title>1121 Black Bar Stool FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-11121black.jpg?v=1619289874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 16D x 34-44H inches</strong></li>
+<li><strong>Metal frame with black leather seat cover</strong></li>
+<li><strong>Chrome and black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219569741897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219569578057</id>
+    <published>2020-09-25T17:50:36-04:00</published>
+    <updated>2020-09-25T17:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1101v-with-arm-rest-black"/>
+    <title>1101V Black Bar Stool W/ Arms FINISH: Black</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-1101VWITHARMRESTBLACK.jpg?v=1619290426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20.5W x 21D x 34-44H inches</strong></li>
+<li><strong>Metal frame with black leather seat cover</strong></li>
+<li><strong>Chrome and black Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219569578057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219571609673</id>
+    <published>2020-09-25T17:50:35-04:00</published>
+    <updated>2020-09-25T17:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-1101v-white"/>
+    <title>1101V White Bar Stool No Arms FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/Renea_Swivel_Adjustable_Bar_Stool_1.jpg?v=1619290601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 21D x 34-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and white Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219571609673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219571314761</id>
+    <published>2020-09-25T17:50:35-04:00</published>
+    <updated>2020-09-25T17:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/bar-stool-ls-11121-white"/>
+    <title>1121 White Bar Stool FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/LS-11121WHITE.jpg?v=1619289807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>17W x 16D x 34-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and white Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219571314761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://infiniteimports.ca/products/2219572265033</id>
+    <published>2020-09-25T17:50:34-04:00</published>
+    <updated>2020-09-25T17:50:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://infiniteimports.ca/products/ls-1101v-with-arm-rest"/>
+    <title>1101V White Bar Stool W/ Arms FINISH: White</title>
+    <s:type>Bar Stool</s:type>
+    <s:vendor>infiniteimports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0066/0717/5753/products/4_900x_6ff24477-9dbd-490b-af14-853f2c495a64.jpg?v=1619290270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>infiniteimports<br>
+        <strong>Type: </strong>Bar Stool<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>20.5W x 21D x 34-44H inches</strong></li>
+<li><strong>Metal frame with faux leather seat cover</strong></li>
+<li><strong>Chrome and white Finish</strong></li>
+<li><strong>Modern, contemporary design</strong></li>
+<li><strong>Sturdy round foot rest &amp; arm rests</strong></li>
+<li><strong>Comfortable back design</strong></li>
+<li><strong>300 pound weight capacity</strong></li>
+<li><strong>Height adjustable lever</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://infiniteimports.ca/products/2219572265033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
